@@ -8,5 +8,5 @@ We are very happy that you can join the community for sharing the Great Things.
 | ---------- | --------------------------------------- | --------------- |
 | GitKraken  | The Simple & Beautiful GIt Gui Software |                 |
 | Ghost      | The Growing & Easy to use Blog Software |                 |
-|            |                                         |                 |
+| calibre    | The Simple & Easy to use Book Reader    |                 |
 
